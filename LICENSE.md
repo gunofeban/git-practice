@@ -1,3 +1,3 @@
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2017] [Yunseok Oh]
